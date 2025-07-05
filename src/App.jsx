@@ -1,6 +1,6 @@
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 import First from "./page/First";
-import Onboarding from "./page/Onboading";
+import Onboarding from "./page/Onboarding";
 import Create from "./page/Create";
 import Login from "./page/Login";
 import Dashboard from "./page/Dashboard";
